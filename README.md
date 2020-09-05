@@ -14,16 +14,16 @@ In this project, you build an app that let's you display a todo list from reduce
 
 ### Task 1: Project Set Up
 
-- [ ] Create a forked copy of this project.
-- [ ] Add your team lead as collaborator on Github.
-- [ ] Clone your OWN version of the repository in your terminal.
-- [ ] CD into the project base directory `cd reducer-todo`.
-- [ ] Create a new react app running `npx create-react-app todo --use-npm`.
-- [ ] CD into the react app directory `cd todo`.
-- [ ] Start up the app using `npm start`.
-- [ ] Create a new branch: git checkout -b `<firstName-lastName>`.
-- [ ] Implement the project on your newly created `<firstName-lastName>` branch, committing changes regularly.
-- [ ] Push commits: git push origin `<firstName-lastName>`.
+- [X] Create a forked copy of this project.
+- [X] Add your team lead as collaborator on Github.
+- [X] Clone your OWN version of the repository in your terminal.
+- [X] CD into the project base directory `cd reducer-todo`.
+- [X] Create a new react app running `npx create-react-app todo --use-npm`.
+- [X] CD into the react app directory `cd todo`.
+- [X] Start up the app using `npm start`.
+- [X] Create a new branch: git checkout -b `<firstName-lastName>`.
+- [X] Implement the project on your newly created `<firstName-lastName>` branch, committing changes regularly.
+- [X] Push commits: git push origin `<firstName-lastName>`.
 
 ### Task 2a: Minimum Viable Product
 
@@ -86,8 +86,8 @@ After finishing your required elements, you can push your work further. These go
 - Add the moment library to show in "human speak" when a todo was completed
 - Add a property on the todos for when a todo should be completed by. Then display that a todo is "overdue" if it has not been completed by its due date
 - Add "tags" to your todos, and display them with your todo list
-- Have fun with the styling. Make this something you'd be proud to show off!
+X Have fun with the styling. Make this something you'd be proud to show off!
 
 ## Submission Format
-* [ ] Submit a Pull-Request to merge `<firstName-lastName>` Branch into `main` (student's  Repo). **Please don't merge your own pull request**
-* [ ] Fill out your module retrospective form [here](https://forms.lambdaschool.com/module-retrospective) with a link to your PR
+* [X] Submit a Pull-Request to merge `<firstName-lastName>` Branch into `main` (student's  Repo). **Please don't merge your own pull request**
+* [X] Fill out your module retrospective form [here](https://forms.lambdaschool.com/module-retrospective) with a link to your PR
