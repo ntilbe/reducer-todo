@@ -86,8 +86,8 @@ After finishing your required elements, you can push your work further. These go
 - Add the moment library to show in "human speak" when a todo was completed
 - Add a property on the todos for when a todo should be completed by. Then display that a todo is "overdue" if it has not been completed by its due date
 - Add "tags" to your todos, and display them with your todo list
-- Have fun with the styling. Make this something you'd be proud to show off!
+X Have fun with the styling. Make this something you'd be proud to show off!
 
 ## Submission Format
-* [ ] Submit a Pull-Request to merge `<firstName-lastName>` Branch into `main` (student's  Repo). **Please don't merge your own pull request**
-* [ ] Fill out your module retrospective form [here](https://forms.lambdaschool.com/module-retrospective) with a link to your PR
+* [X] Submit a Pull-Request to merge `<firstName-lastName>` Branch into `main` (student's  Repo). **Please don't merge your own pull request**
+* [X] Fill out your module retrospective form [here](https://forms.lambdaschool.com/module-retrospective) with a link to your PR
